@@ -1,5 +1,5 @@
 ---
-layout: frontpage
+layout: frontpage 
 ---
 
 ## Welcome to my website
